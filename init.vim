@@ -13,8 +13,10 @@ Plug 'trevordmiller/nova-vim'
 Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
 Plug 'w0rp/ale'
-Plug 'dracula/vim', { 'as': 'dracula'}
+Plug 'OmniSharp/omnisharp-vim'
+Plug 'ekalinin/Dockerfile.vim'
 " Themes
+Plug 'dracula/vim', { 'as': 'dracula'}
 Plug 'whatyouhide/vim-gotham'
 Plug 'wadackel/vim-dogrun'
 " call PlugInstall to install new plugins
